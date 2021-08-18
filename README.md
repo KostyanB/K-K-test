@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+# Тестовое задание K&K Accelerator
+
+2 варианта:
+* React App
+* Vanilla JS /docs
+
+[Demo](https://kk-test-aca04.web.app)
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
