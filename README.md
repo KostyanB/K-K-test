@@ -1,10 +1,10 @@
 # Тестовое задание K&K Accelerator
 
 2 варианта:
-* React App
-* Vanilla JS /docs
+* [React App Demo](https://kk-test-aca04.web.app)
+* [Vanilla JS Demo](https://kostyanb.github.io/K-K-test/) исходник в /docs
 
-[Demo](https://kk-test-aca04.web.app)
+
 
 ## Getting Started with Create React App
 
